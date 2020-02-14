@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sara1118test</string>
+    <string name="main_et_name">姓名</string>
+    <string name="main_et_height">身高</string>
+    <string name="main_et_weight">體重</string>
+    <string name="main_btn_calculate">計算</string>
+    <string name="main_tv_result">Redult</string>
+
+    <string name="main_msg_notComplete">資料輸入不完整</string>
+</resources>
